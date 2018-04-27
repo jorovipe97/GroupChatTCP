@@ -1,7 +1,6 @@
 # GroupChatTCP
 
-## Demo video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lL53f6YUCTY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+## ![Demo video](https://youtu.be/lL53f6YUCTY)
 
 ## Description
 An group chat implemented using the TCP protocol:
