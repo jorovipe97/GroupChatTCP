@@ -1,6 +1,6 @@
 # GroupChatTCP
 
-## ![Demo video](https://youtu.be/lL53f6YUCTY)
+## [Demo video](https://youtu.be/lL53f6YUCTY)
 
 ## Description
 An group chat implemented using the TCP protocol:
